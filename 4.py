@@ -32,4 +32,4 @@ for i in range(N-2):
                 maximum=A[i].Triangle_Perimetr(A[j],A[k])
                 
 print(*B)
-                
+        
